@@ -13,7 +13,7 @@ defaults:
   - scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: 충곽제일동아리 아보카도
 
 description: Stylish Jekyll Theme
 author:
@@ -23,7 +23,7 @@ author:
   # twitter:
   # pinterest: ㅑ
   # linkedin: asd123
-  bio: 최홍제 게이 ㅇㅈ? \nㅊㄱㅂㅅ
+  bio: 최홍제 게이 ㅇㅈ? ㅊㄱㅂㅅ
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
